@@ -1,3 +1,3 @@
-module github.com/LiterMC/go-bmclapi
+module github.com/open-mirror/mirror-cc
 
-go 1.21.6
+go 1.23.0
